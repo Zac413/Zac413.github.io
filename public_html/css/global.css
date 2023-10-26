@@ -285,6 +285,7 @@ h1.home__bigtitle {
 
   font-size: 300%;
   font-family: "Syne", sans-serif;
+  text-align: left;
   padding-left: 100px;
 }
 @media screen and (min-width: 750px) {
