@@ -1,3 +1,0 @@
-Introducing our 'Website Editor' application, a powerful tool crafted in C++ and powered by Qt. Our mission is to make web page creation accessible to all, regardless of technical expertise. With an intuitive and user-friendly What You See What You Get (WYSIWYG) interface reminiscent of WordPress, users can effortlessly design and create web pages. Say goodbye to coding complexities and hello to a seamless web design experience with 'Website Editor'. 
-<br>
-Collaboratively developed by Alexandre Joly, Victor Delattre, and Jason Collongues.

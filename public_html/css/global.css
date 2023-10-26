@@ -107,10 +107,10 @@ em {
 .header {
   background: var(--background);
   border-bottom: 1px solid var(--text);
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
   width: 100%;
   z-index: 999;
 }

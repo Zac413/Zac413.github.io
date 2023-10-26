@@ -1,18 +1,25 @@
 
 
 // MENU MOBILE
-function menumobile(){
+function menumobile() {
     var header = document.querySelector('header');
     var button = document.querySelector('.header__burger');
+    var menuLinks = document.querySelectorAll('.header__menu a');
 
-    button.addEventListener('click', () =>{
+    button.addEventListener('click', () => {
         console.log('click');
         header.classList.toggle('show__menu');
-    })
+    });
 
-    
+    menuLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            header.classList.remove('show__menu');
+        });
+    });
 }
+
 menumobile();
+
 
 
 // THEME
