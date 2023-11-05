@@ -318,6 +318,8 @@ h1.home__title {
   }
 }
 
+
+
 /* ______BOUNCE_ARROW__________ */
 .arrow {
   position: fixed;
@@ -551,6 +553,13 @@ h1.home__title {
   .about__bigtitle h1 {
     font-size: 600%;
   }
+}
+
+
+.round-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
 }
 .about__bigtitle h1 {
   margin-bottom: 0px;
